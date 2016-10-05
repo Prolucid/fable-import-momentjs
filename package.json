@@ -5,6 +5,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "moment": "^2.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2sComplement/fable-import-momentjs.git"
+  },
+  "keywords": [
+    "F#",
+    "Fable",
+    "Momentjs"
+  ],
   "author": "Justin Sacks",
   "license": "ISC"
 }
